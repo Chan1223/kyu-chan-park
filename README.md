@@ -1,1 +1,5 @@
-# kyu-chan-park
+ kyu-chan-park
+
+Hello, Git!
+
+
